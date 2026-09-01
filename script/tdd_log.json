@@ -8,9 +8,31 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "ec9c7f79568a8c087276b2f38715f2602b9f7a0d",
     "commitName": "feat: implementar numero normal en FizzBuzz",
     "commitTimestamp": 1788257018370,
     "testId": 0
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1788257183467,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1788257230869,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: agregar regla Fizz para el numero 3",
+    "commitTimestamp": 1788257240455,
+    "testId": 1
   }
 ]

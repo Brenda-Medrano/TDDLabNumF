@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "ec9c7f79568a8c087276b2f38715f2602b9f7a0d",
     "author": "Brenda-Medrano",
     "commit": {
       "date": "2026-09-01T10:03:37.000Z",
       "message": "feat: implementar numero normal en FizzBuzz",
-      "url": "https://github.com/Brenda-Medrano/TDDLabNumF/commit/HEAD"
+      "url": "https://github.com/Brenda-Medrano/TDDLabNumF/commit/ec9c7f79568a8c087276b2f38715f2602b9f7a0d"
     },
     "stats": {
       "total": 10,
@@ -15,6 +15,25 @@
     },
     "coverage": 100,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Brenda-Medrano",
+    "commit": {
+      "date": "2026-09-01T10:07:19.000Z",
+      "message": "feat: agregar regla Fizz para el numero 3",
+      "url": "https://github.com/Brenda-Medrano/TDDLabNumF/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 8,
+      "deletions": 0,
+      "date": "2026-09-01"
+    },
+    "coverage": 100,
+    "test_count": 3,
     "failed_tests": 0,
     "conclusion": "success"
   }
