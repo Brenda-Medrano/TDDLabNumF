@@ -58,9 +58,23 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "d579cb1c9c25e84a1a9e6c265419e8caf52b7454",
     "commitName": "feat: agregar multiplos de 3 y 5 para Buzz",
     "commitTimestamp": 1788257531707,
     "testId": 3
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1788257611368,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: completar reglas de multiplos de FizzBuzz",
+    "commitTimestamp": 1788257619121,
+    "testId": 4
   }
 ]

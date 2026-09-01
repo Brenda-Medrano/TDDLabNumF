@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "d579cb1c9c25e84a1a9e6c265419e8caf52b7454",
     "author": "Brenda-Medrano",
     "commit": {
       "date": "2026-09-01T10:12:10.000Z",
       "message": "feat: agregar multiplos de 3 y 5 para Buzz",
-      "url": "https://github.com/Brenda-Medrano/TDDLabNumF/commit/HEAD"
+      "url": "https://github.com/Brenda-Medrano/TDDLabNumF/commit/d579cb1c9c25e84a1a9e6c265419e8caf52b7454"
     },
     "stats": {
       "total": 11,
@@ -72,6 +72,25 @@
     },
     "coverage": 87.5,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Brenda-Medrano",
+    "commit": {
+      "date": "2026-09-01T10:13:38.000Z",
+      "message": "feat: completar reglas de multiplos de FizzBuzz",
+      "url": "https://github.com/Brenda-Medrano/TDDLabNumF/commit/HEAD"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 7,
+      "deletions": 2,
+      "date": "2026-09-01"
+    },
+    "coverage": 100,
+    "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
   }

@@ -1,5 +1,5 @@
 export function fizzBuzz(numero) {
-    if (numero === 15) {
+    if (numero % 3 === 0 && numero % 5 === 0) {
         return "FizzBuzz";
     }
 
