@@ -8,4 +8,8 @@ describe("FizzBuzz", () => {
     test("debería devolver Fizz cuando el número es 3", () => {
         expect(fizzBuzz(3)).toBe("Fizz");
     });
+
+    test("debería devolver Buzz cuando el número es 5", () => {
+        expect(fizzBuzz(5)).toBe("Buzz");
+    });
 });

@@ -30,9 +30,23 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "f0a4c16aeae515f4bec4477dfa046de80a27896a",
     "commitName": "feat: agregar regla Fizz para el numero 3",
     "commitTimestamp": 1788257240455,
     "testId": 1
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1788257306831,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: agregar regla Buzz para el numero 5",
+    "commitTimestamp": 1788257317150,
+    "testId": 2
   }
 ]

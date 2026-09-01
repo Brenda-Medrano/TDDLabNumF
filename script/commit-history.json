@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "f0a4c16aeae515f4bec4477dfa046de80a27896a",
     "author": "Brenda-Medrano",
     "commit": {
       "date": "2026-09-01T10:07:19.000Z",
       "message": "feat: agregar regla Fizz para el numero 3",
-      "url": "https://github.com/Brenda-Medrano/TDDLabNumF/commit/HEAD"
+      "url": "https://github.com/Brenda-Medrano/TDDLabNumF/commit/f0a4c16aeae515f4bec4477dfa046de80a27896a"
     },
     "stats": {
       "total": 8,
@@ -34,6 +34,25 @@
     },
     "coverage": 100,
     "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Brenda-Medrano",
+    "commit": {
+      "date": "2026-09-01T10:08:36.000Z",
+      "message": "feat: agregar regla Buzz para el numero 5",
+      "url": "https://github.com/Brenda-Medrano/TDDLabNumF/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 8,
+      "deletions": 0,
+      "date": "2026-09-01"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }
