@@ -12,4 +12,7 @@ describe("FizzBuzz", () => {
     test("debería devolver Buzz cuando el número es 5", () => {
         expect(fizzBuzz(5)).toBe("Buzz");
     });
+    test("debería devolver Buzz para múltiplos de 5", () => {
+    expect(fizzBuzz(10)).toBe("Buzz");
+});
 });

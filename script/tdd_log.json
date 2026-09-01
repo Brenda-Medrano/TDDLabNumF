@@ -44,9 +44,23 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "935a408668834941e64bd5717e3b33f6c01fed3b",
     "commitName": "feat: agregar regla Buzz para el numero 5",
     "commitTimestamp": 1788257317150,
     "testId": 2
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1788257507342,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: agregar multiplos de 3 y 5 para Buzz",
+    "commitTimestamp": 1788257531707,
+    "testId": 3
   }
 ]
