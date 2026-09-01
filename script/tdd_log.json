@@ -1,0 +1,16 @@
+[
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1788256968721,
+    "success": true,
+    "testId": 0
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: implementar numero normal en FizzBuzz",
+    "commitTimestamp": 1788257018370,
+    "testId": 0
+  }
+]
