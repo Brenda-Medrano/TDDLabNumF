@@ -76,12 +76,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "fe02090347c46754c13a5fc5a2602ceb35abcf5c",
     "author": "Brenda-Medrano",
     "commit": {
       "date": "2026-09-01T10:13:38.000Z",
       "message": "feat: completar reglas de multiplos de FizzBuzz",
-      "url": "https://github.com/Brenda-Medrano/TDDLabNumF/commit/HEAD"
+      "url": "https://github.com/Brenda-Medrano/TDDLabNumF/commit/fe02090347c46754c13a5fc5a2602ceb35abcf5c"
     },
     "stats": {
       "total": 9,
@@ -91,6 +91,25 @@
     },
     "coverage": 100,
     "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Brenda-Medrano",
+    "commit": {
+      "date": "2026-09-01T10:19:57.000Z",
+      "message": "feat: agregar interfaz de usuario para FizzBuzz",
+      "url": "https://github.com/Brenda-Medrano/TDDLabNumF/commit/HEAD"
+    },
+    "stats": {
+      "total": 70,
+      "additions": 54,
+      "deletions": 16,
+      "date": "2026-09-01"
+    },
+    "coverage": 100,
+    "test_count": 8,
     "failed_tests": 0,
     "conclusion": "success"
   }

@@ -12,12 +12,20 @@ describe("FizzBuzz", () => {
     test("debería devolver Buzz cuando el número es 5", () => {
         expect(fizzBuzz(5)).toBe("Buzz");
     });
+
+    test("debería devolver FizzBuzz cuando el número es 15", () => {
+        expect(fizzBuzz(15)).toBe("FizzBuzz");
+    });
+
+    test("debería devolver Fizz para múltiplos de 3", () => {
+        expect(fizzBuzz(6)).toBe("Fizz");
+    });
+
     test("debería devolver Buzz para múltiplos de 5", () => {
-    expect(fizzBuzz(10)).toBe("Buzz");
+        expect(fizzBuzz(10)).toBe("Buzz");
     });
 
     test("debería devolver FizzBuzz para múltiplos de 3 y 5", () => {
-    expect(fizzBuzz(30)).toBe("FizzBuzz");
+        expect(fizzBuzz(30)).toBe("FizzBuzz");
     });
-
 });

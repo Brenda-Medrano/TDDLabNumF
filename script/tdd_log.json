@@ -72,9 +72,15 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "fe02090347c46754c13a5fc5a2602ceb35abcf5c",
     "commitName": "feat: completar reglas de multiplos de FizzBuzz",
     "commitTimestamp": 1788257619121,
     "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: agregar interfaz de usuario para FizzBuzz",
+    "commitTimestamp": 1788257999022,
+    "testId": 5
   }
 ]
