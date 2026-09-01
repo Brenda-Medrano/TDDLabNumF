@@ -95,17 +95,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "5864258b13baec5551d18e85b629b13a8f14388b",
     "author": "Brenda-Medrano",
     "commit": {
       "date": "2026-09-01T10:19:57.000Z",
       "message": "feat: agregar interfaz de usuario para FizzBuzz",
-      "url": "https://github.com/Brenda-Medrano/TDDLabNumF/commit/HEAD"
+      "url": "https://github.com/Brenda-Medrano/TDDLabNumF/commit/5864258b13baec5551d18e85b629b13a8f14388b"
     },
     "stats": {
       "total": 70,
       "additions": 54,
       "deletions": 16,
+      "date": "2026-09-01"
+    },
+    "coverage": 100,
+    "test_count": 8,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Brenda-Medrano",
+    "commit": {
+      "date": "2026-09-01T10:21:10.000Z",
+      "message": "feat: se modifico el title del archivo index",
+      "url": "https://github.com/Brenda-Medrano/TDDLabNumF/commit/HEAD"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 2,
+      "deletions": 2,
       "date": "2026-09-01"
     },
     "coverage": 100,

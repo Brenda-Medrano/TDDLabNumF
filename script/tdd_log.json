@@ -78,9 +78,15 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "5864258b13baec5551d18e85b629b13a8f14388b",
     "commitName": "feat: agregar interfaz de usuario para FizzBuzz",
     "commitTimestamp": 1788257999022,
     "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: se modifico el title del archivo index",
+    "commitTimestamp": 1788258071904,
+    "testId": 6
   }
 ]
